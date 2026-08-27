@@ -2,13 +2,13 @@
  "source": "https://donator.ge/jobs/dataset",
  "license": "CC BY 4.0",
  "attribution": "Donator Remote Work Data, https://donator.ge/jobs/dataset",
- "generatedAt": "2026-08-27T18:16:44.172Z",
+ "generatedAt": "2026-08-27T18:24:17.260Z",
  "method": {
   "pay": "Median published pay in USD per month. Hourly and daily rates are excluded, as is any advert whose interval was inferred rather than published.",
   "wageMultiple": "Median monthly pay divided by the country's average monthly wage (ILO, USD), with the observation year on each row.",
   "sample": "Every figure carries the number of adverts it was computed over."
  },
- "at": 1787854604172,
+ "at": 1787855057260,
  "live": 1097,
  "eligibility": {
   "worldwide": 774,
@@ -3079,7 +3079,7 @@
   },
   {
    "day": "2026-08-27",
-   "at": 1787854604172,
+   "at": 1787855057260,
    "live": 1097,
    "worldwide": 774,
    "europe": 323,
