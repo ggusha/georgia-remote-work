@@ -1,0 +1,3089 @@
+{
+ "source": "https://donator.ge/jobs/dataset",
+ "license": "CC BY 4.0",
+ "attribution": "Donator Remote Work Data, https://donator.ge/jobs/dataset",
+ "generatedAt": "2026-08-27T18:16:44.172Z",
+ "method": {
+  "pay": "Median published pay in USD per month. Hourly and daily rates are excluded, as is any advert whose interval was inferred rather than published.",
+  "wageMultiple": "Median monthly pay divided by the country's average monthly wage (ILO, USD), with the observation year on each row.",
+  "sample": "Every figure carries the number of adverts it was computed over."
+ },
+ "at": 1787854604172,
+ "live": 1097,
+ "eligibility": {
+  "worldwide": 774,
+  "europe": 323
+ },
+ "medianPayUsd": {
+  "value": 6250,
+  "sample": 75,
+  "of": 1097,
+  "method": "monthlyUsd"
+ },
+ "countries": [
+  {
+   "cc": "BI",
+   "slug": "burundi",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 128.1,
+   "wage": {
+    "perMonthUsd": 50.6,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "NG",
+   "slug": "nigeria",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 125.3,
+   "wage": {
+    "perMonthUsd": 51.7,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "RW",
+   "slug": "rwanda",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 122.3,
+   "wage": {
+    "perMonthUsd": 53,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MG",
+   "slug": "madagascar",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 90.8,
+   "wage": {
+    "perMonthUsd": 71.4,
+    "asOf": "2015",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GM",
+   "slug": "gambia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 78.3,
+   "wage": {
+    "perMonthUsd": 82.8,
+    "asOf": "2018",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PK",
+   "slug": "pakistan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 68.4,
+   "wage": {
+    "perMonthUsd": 94.7,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "ET",
+   "slug": "ethiopia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 67.6,
+   "wage": {
+    "perMonthUsd": 95.9,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "EG",
+   "slug": "egypt",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 59.2,
+   "wage": {
+    "perMonthUsd": 109.4,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "NE",
+   "slug": "niger",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 53.8,
+   "wage": {
+    "perMonthUsd": 120.4,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AO",
+   "slug": "angola",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 50.4,
+   "wage": {
+    "perMonthUsd": 128.6,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BD",
+   "slug": "bangladesh",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 5,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 48.3,
+   "wage": {
+    "perMonthUsd": 134.2,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BJ",
+   "slug": "benin",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 47.8,
+   "wage": {
+    "perMonthUsd": 135.7,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LS",
+   "slug": "lesotho",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 47.6,
+   "wage": {
+    "perMonthUsd": 136.1,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MM",
+   "slug": "myanmar",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 5,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 47.6,
+   "wage": {
+    "perMonthUsd": 136,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KE",
+   "slug": "kenya",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 47.4,
+   "wage": {
+    "perMonthUsd": 136.6,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TG",
+   "slug": "togo",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 47.1,
+   "wage": {
+    "perMonthUsd": 137.7,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TJ",
+   "slug": "tajikistan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 46.3,
+   "wage": {
+    "perMonthUsd": 140.1,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GW",
+   "slug": "guinea-bissau",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 46,
+   "wage": {
+    "perMonthUsd": 141,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LK",
+   "slug": "sri-lanka",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 45.1,
+   "wage": {
+    "perMonthUsd": 143.8,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CD",
+   "slug": "dr-congo",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 44.8,
+   "wage": {
+    "perMonthUsd": 144.6,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "UG",
+   "slug": "uganda",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 40.2,
+   "wage": {
+    "perMonthUsd": 161,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "NP",
+   "slug": "nepal",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 5,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 38.1,
+   "wage": {
+    "perMonthUsd": 170.3,
+    "asOf": "2017",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "ZM",
+   "slug": "zambia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 38,
+   "wage": {
+    "perMonthUsd": 170.4,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AF",
+   "slug": "afghanistan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 37.7,
+   "wage": {
+    "perMonthUsd": 171.9,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "ML",
+   "slug": "mali",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 36.8,
+   "wage": {
+    "perMonthUsd": 176,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LA",
+   "slug": "laos",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 36.3,
+   "wage": {
+    "perMonthUsd": 178.4,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GH",
+   "slug": "ghana",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 35.6,
+   "wage": {
+    "perMonthUsd": 181.8,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "ID",
+   "slug": "indonesia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 35.6,
+   "wage": {
+    "perMonthUsd": 182.2,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GN",
+   "slug": "guinea",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 33.7,
+   "wage": {
+    "perMonthUsd": 192.3,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TD",
+   "slug": "chad",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 31.5,
+   "wage": {
+    "perMonthUsd": 206,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CI",
+   "slug": "cote-divoire",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 31.3,
+   "wage": {
+    "perMonthUsd": 206.7,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TZ",
+   "slug": "tanzania",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 30.6,
+   "wage": {
+    "perMonthUsd": 211.6,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BF",
+   "slug": "burkina-faso",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 30.5,
+   "wage": {
+    "perMonthUsd": 212.2,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MZ",
+   "slug": "mozambique",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 30.5,
+   "wage": {
+    "perMonthUsd": 212.5,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TN",
+   "slug": "tunisia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 25.7,
+   "wage": {
+    "perMonthUsd": 252.1,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KM",
+   "slug": "comoros",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 25.6,
+   "wage": {
+    "perMonthUsd": 253.3,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TL",
+   "slug": "timor-leste",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 25.2,
+   "wage": {
+    "perMonthUsd": 257.6,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KH",
+   "slug": "cambodia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 23.2,
+   "wage": {
+    "perMonthUsd": 278.8,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SN",
+   "slug": "senegal",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 23.2,
+   "wage": {
+    "perMonthUsd": 279.2,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SD",
+   "slug": "sudan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 22.8,
+   "wage": {
+    "perMonthUsd": 284.2,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PH",
+   "slug": "philippines",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 20.5,
+   "wage": {
+    "perMonthUsd": 316.5,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BT",
+   "slug": "bhutan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 5,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 20.1,
+   "wage": {
+    "perMonthUsd": 322.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CV",
+   "slug": "cape-verde",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 6,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 20,
+   "wage": {
+    "perMonthUsd": 323.9,
+    "asOf": "2015",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KG",
+   "slug": "kyrgyzstan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 5,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 19.7,
+   "wage": {
+    "perMonthUsd": 329.1,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GE",
+   "slug": "georgia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 18.9,
+   "wage": {
+    "perMonthUsd": 329.9,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "UZ",
+   "slug": "uzbekistan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 18.4,
+   "wage": {
+    "perMonthUsd": 351.3,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "VN",
+   "slug": "vietnam",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 18.3,
+   "wage": {
+    "perMonthUsd": 355,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KI",
+   "slug": "kiribati",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 18.1,
+   "wage": {
+    "perMonthUsd": 357.7,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SR",
+   "slug": "suriname",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 17.5,
+   "wage": {
+    "perMonthUsd": 370.9,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SZ",
+   "slug": "eswatini",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 16.9,
+   "wage": {
+    "perMonthUsd": 384.5,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GQ",
+   "slug": "equatorial-guinea",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 16.7,
+   "wage": {
+    "perMonthUsd": 388.3,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AM",
+   "slug": "armenia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 15.4,
+   "wage": {
+    "perMonthUsd": 405.3,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "GY",
+   "slug": "guyana",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 15.3,
+   "wage": {
+    "perMonthUsd": 424,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PY",
+   "slug": "paraguay",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 15.1,
+   "wage": {
+    "perMonthUsd": 428.8,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "HN",
+   "slug": "honduras",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 15,
+   "wage": {
+    "perMonthUsd": 433.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BO",
+   "slug": "bolivia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 14,
+   "wage": {
+    "perMonthUsd": 461.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GT",
+   "slug": "guatemala",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13.9,
+   "wage": {
+    "perMonthUsd": 464.6,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "UA",
+   "slug": "ukraine",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 13.6,
+   "wage": {
+    "perMonthUsd": 459.1,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "BW",
+   "slug": "botswana",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13.4,
+   "wage": {
+    "perMonthUsd": 482.6,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "DO",
+   "slug": "dominican-republic",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13.4,
+   "wage": {
+    "perMonthUsd": 485.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "ZA",
+   "slug": "south-africa",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13.4,
+   "wage": {
+    "perMonthUsd": 484.9,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "JO",
+   "slug": "jordan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13.1,
+   "wage": {
+    "perMonthUsd": 494.8,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CO",
+   "slug": "colombia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 13,
+   "wage": {
+    "perMonthUsd": 499,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SV",
+   "slug": "el-salvador",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 12.8,
+   "wage": {
+    "perMonthUsd": 507,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TH",
+   "slug": "thailand",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 12.8,
+   "wage": {
+    "perMonthUsd": 507.8,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AZ",
+   "slug": "azerbaijan",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 12.7,
+   "wage": {
+    "perMonthUsd": 493.8,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "BZ",
+   "slug": "belize",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 12.7,
+   "wage": {
+    "perMonthUsd": 510,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MD",
+   "slug": "moldova",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 12.5,
+   "wage": {
+    "perMonthUsd": 501.2,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "DJ",
+   "slug": "djibouti",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 12.1,
+   "wage": {
+    "perMonthUsd": 537.4,
+    "asOf": "2017",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "EC",
+   "slug": "ecuador",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 12,
+   "wage": {
+    "perMonthUsd": 538.5,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "NA",
+   "slug": "namibia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 11.9,
+   "wage": {
+    "perMonthUsd": 546.6,
+    "asOf": "2018",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MX",
+   "slug": "mexico",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 11.7,
+   "wage": {
+    "perMonthUsd": 551.5,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MN",
+   "slug": "mongolia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 11.6,
+   "wage": {
+    "perMonthUsd": 560.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PE",
+   "slug": "peru",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 11.5,
+   "wage": {
+    "perMonthUsd": 562.9,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AL",
+   "slug": "albania",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 11.4,
+   "wage": {
+    "perMonthUsd": 547.6,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "BR",
+   "slug": "brazil",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 10.7,
+   "wage": {
+    "perMonthUsd": 607.3,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "WS",
+   "slug": "samoa",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 10.6,
+   "wage": {
+    "perMonthUsd": 613,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TO",
+   "slug": "tonga",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 9.8,
+   "wage": {
+    "perMonthUsd": 662.8,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KZ",
+   "slug": "kazakhstan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 9.6,
+   "wage": {
+    "perMonthUsd": 673.4,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "FJ",
+   "slug": "fiji",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 9.4,
+   "wage": {
+    "perMonthUsd": 690.7,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MY",
+   "slug": "malaysia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 9.3,
+   "wage": {
+    "perMonthUsd": 697.8,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MU",
+   "slug": "mauritius",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 9.3,
+   "wage": {
+    "perMonthUsd": 699,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MV",
+   "slug": "maldives",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 6,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8.6,
+   "wage": {
+    "perMonthUsd": 751,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LB",
+   "slug": "lebanon",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8.3,
+   "wage": {
+    "perMonthUsd": 780.1,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LC",
+   "slug": "saint-lucia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8.2,
+   "wage": {
+    "perMonthUsd": 785.7,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MH",
+   "slug": "marshall-islands",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8.1,
+   "wage": {
+    "perMonthUsd": 798.3,
+    "asOf": "2019",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AR",
+   "slug": "argentina",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8,
+   "wage": {
+    "perMonthUsd": 811.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CN",
+   "slug": "china",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 8,
+   "wage": {
+    "perMonthUsd": 806.9,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "RU",
+   "slug": "russia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 8,
+   "wage": {
+    "perMonthUsd": 777.1,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "TT",
+   "slug": "trinidad-and-tobago",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 7.5,
+   "wage": {
+    "perMonthUsd": 863.5,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PA",
+   "slug": "panama",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 7,
+   "wage": {
+    "perMonthUsd": 928.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BH",
+   "slug": "bahrain",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 6.9,
+   "wage": {
+    "perMonthUsd": 938.8,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BA",
+   "slug": "bosnia-and-herzegovina",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 6.8,
+   "wage": {
+    "perMonthUsd": 924.7,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "ME",
+   "slug": "montenegro",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 6.7,
+   "wage": {
+    "perMonthUsd": 929.8,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "CL",
+   "slug": "chile",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 6.3,
+   "wage": {
+    "perMonthUsd": 1024.2,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "AG",
+   "slug": "antigua-and-barbuda",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 6.2,
+   "wage": {
+    "perMonthUsd": 1051.9,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PW",
+   "slug": "palau",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 6.2,
+   "wage": {
+    "perMonthUsd": 1042.4,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SC",
+   "slug": "seychelles",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 6.2,
+   "wage": {
+    "perMonthUsd": 1049,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "TR",
+   "slug": "turkey",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 6.2,
+   "wage": {
+    "perMonthUsd": 1000.8,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "KW",
+   "slug": "kuwait",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 5.5,
+   "wage": {
+    "perMonthUsd": 1168.3,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CR",
+   "slug": "costa-rica",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 7,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 5.4,
+   "wage": {
+    "perMonthUsd": 1204.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "UY",
+   "slug": "uruguay",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 4,
+   "overlapAmericas": 8,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 5.4,
+   "wage": {
+    "perMonthUsd": 1192.1,
+    "asOf": "2024",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "LR",
+   "slug": "liberia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 5,
+   "wage": {
+    "perMonthUsd": 1308.6,
+    "asOf": "2017",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BB",
+   "slug": "barbados",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 4.8,
+   "wage": {
+    "perMonthUsd": 1340.1,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "HU",
+   "slug": "hungary",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 4.8,
+   "wage": {
+    "perMonthUsd": 1290.3,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "PT",
+   "slug": "portugal",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 4.4,
+   "wage": {
+    "perMonthUsd": 1426.2,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "BG",
+   "slug": "bulgaria",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 4,
+   "wage": {
+    "perMonthUsd": 1573.2,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "RS",
+   "slug": "serbia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 4,
+   "wage": {
+    "perMonthUsd": 1559,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "RO",
+   "slug": "romania",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 3.6,
+   "wage": {
+    "perMonthUsd": 1722.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "SA",
+   "slug": "saudi-arabia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 3.6,
+   "wage": {
+    "perMonthUsd": 1799.5,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "HK",
+   "slug": "hong-kong",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 3.4,
+   "wage": {
+    "perMonthUsd": 1932.4,
+    "asOf": "2016",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "MO",
+   "slug": "macao",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 3.3,
+   "wage": {
+    "perMonthUsd": 1957.3,
+    "asOf": "2018",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BS",
+   "slug": "bahamas",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 3.2,
+   "wage": {
+    "perMonthUsd": 2038.1,
+    "asOf": "2023",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GR",
+   "slug": "greece",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.9,
+   "wage": {
+    "perMonthUsd": 2185,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "PR",
+   "slug": "puerto-rico",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 2.9,
+   "wage": {
+    "perMonthUsd": 2232.8,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "PL",
+   "slug": "poland",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.7,
+   "wage": {
+    "perMonthUsd": 2301.9,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "SM",
+   "slug": "san-marino",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.7,
+   "wage": {
+    "perMonthUsd": 2316.6,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "HR",
+   "slug": "croatia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.5,
+   "wage": {
+    "perMonthUsd": 2493.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "SK",
+   "slug": "slovakia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.5,
+   "wage": {
+    "perMonthUsd": 2496.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "LV",
+   "slug": "latvia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.4,
+   "wage": {
+    "perMonthUsd": 2624.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "LT",
+   "slug": "lithuania",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.4,
+   "wage": {
+    "perMonthUsd": 2634.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "CZ",
+   "slug": "czechia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 2.3,
+   "wage": {
+    "perMonthUsd": 2716.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "JP",
+   "slug": "japan",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 2.3,
+   "wage": {
+    "perMonthUsd": 2800.8,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "QA",
+   "slug": "qatar",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 2,
+   "wage": {
+    "perMonthUsd": 3286.5,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "KR",
+   "slug": "south-korea",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 2,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 2,
+   "wage": {
+    "perMonthUsd": 3167.8,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "CY",
+   "slug": "cyprus",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.9,
+   "wage": {
+    "perMonthUsd": 3287,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "EE",
+   "slug": "estonia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.9,
+   "wage": {
+    "perMonthUsd": 3217.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "IL",
+   "slug": "israel",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1.9,
+   "wage": {
+    "perMonthUsd": 3383.1,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SG",
+   "slug": "singapore",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1.9,
+   "wage": {
+    "perMonthUsd": 3483.5,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "GB",
+   "slug": "united-kingdom",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.8,
+   "wage": {
+    "perMonthUsd": 3567.2,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "NZ",
+   "slug": "new-zealand",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 0,
+   "overlapAmericas": 1,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1.7,
+   "wage": {
+    "perMonthUsd": 3797.9,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "SI",
+   "slug": "slovenia",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.7,
+   "wage": {
+    "perMonthUsd": 3694.4,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "ES",
+   "slug": "spain",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.7,
+   "wage": {
+    "perMonthUsd": 3574.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "CA",
+   "slug": "canada",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1.6,
+   "wage": {
+    "perMonthUsd": 4121.3,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "IT",
+   "slug": "italy",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.6,
+   "wage": {
+    "perMonthUsd": 3993.8,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "MT",
+   "slug": "malta",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.6,
+   "wage": {
+    "perMonthUsd": 3947,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "AU",
+   "slug": "australia",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 1,
+   "overlapAmericas": 0,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1.5,
+   "wage": {
+    "perMonthUsd": 4436.2,
+    "asOf": "2021",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "DE",
+   "slug": "germany",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.3,
+   "wage": {
+    "perMonthUsd": 4646.5,
+    "asOf": "2022",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "SE",
+   "slug": "sweden",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.3,
+   "wage": {
+    "perMonthUsd": 4782.7,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "FR",
+   "slug": "france",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.2,
+   "wage": {
+    "perMonthUsd": 5023.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "FI",
+   "slug": "finland",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 2,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.1,
+   "wage": {
+    "perMonthUsd": 5760,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "IE",
+   "slug": "ireland",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 8,
+   "overlapAmericas": 4,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1.1,
+   "wage": {
+    "perMonthUsd": 5696.6,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "AT",
+   "slug": "austria",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1,
+   "wage": {
+    "perMonthUsd": 6155,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "IS",
+   "slug": "iceland",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 7,
+   "overlapAmericas": 5,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1,
+   "wage": {
+    "perMonthUsd": 6348.6,
+    "asOf": "2020",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "NL",
+   "slug": "netherlands",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1,
+   "wage": {
+    "perMonthUsd": 6402.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "NO",
+   "slug": "norway",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 1,
+   "wage": {
+    "perMonthUsd": 6439.8,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "US",
+   "slug": "united-states",
+   "eligible": 774,
+   "total": 1097,
+   "overlapEurope": 3,
+   "overlapAmericas": 9,
+   "medianPayUsd": 6480,
+   "medianPaySample": 65,
+   "wageMultiple": 1,
+   "wage": {
+    "perMonthUsd": 6272.9,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": false
+  },
+  {
+   "cc": "BE",
+   "slug": "belgium",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 0.9,
+   "wage": {
+    "perMonthUsd": 7044.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "DK",
+   "slug": "denmark",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 0.9,
+   "wage": {
+    "perMonthUsd": 6992.1,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "LI",
+   "slug": "liechtenstein",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 0.9,
+   "wage": {
+    "perMonthUsd": 6825.9,
+    "asOf": "2018",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "CH",
+   "slug": "switzerland",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 0.8,
+   "wage": {
+    "perMonthUsd": 7779.9,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  },
+  {
+   "cc": "LU",
+   "slug": "luxembourg",
+   "eligible": 1097,
+   "total": 1097,
+   "overlapEurope": 9,
+   "overlapAmericas": 3,
+   "medianPayUsd": 6250,
+   "medianPaySample": 75,
+   "wageMultiple": 0.7,
+   "wage": {
+    "perMonthUsd": 9149.7,
+    "asOf": "2025",
+    "source": "ILOSTAT"
+   },
+   "europe": true
+  }
+ ],
+ "countriesTotal": 199,
+ "skills": [
+  {
+   "slug": "python",
+   "count": 115
+  },
+  {
+   "slug": "sql",
+   "count": 80
+  },
+  {
+   "slug": "kubernetes",
+   "count": 64
+  },
+  {
+   "slug": "aws",
+   "count": 56
+  },
+  {
+   "slug": "react",
+   "count": 56
+  },
+  {
+   "slug": "agile",
+   "count": 53
+  },
+  {
+   "slug": "machine-learning",
+   "count": 51
+  },
+  {
+   "slug": "docker",
+   "count": 42
+  },
+  {
+   "slug": "java",
+   "count": 34
+  },
+  {
+   "slug": "typescript",
+   "count": 34
+  },
+  {
+   "slug": "nodejs",
+   "count": 32
+  },
+  {
+   "slug": "salesforce",
+   "count": 32
+  },
+  {
+   "slug": "seo",
+   "count": 30
+  },
+  {
+   "slug": "golang",
+   "count": 26
+  },
+  {
+   "slug": "figma",
+   "count": 23
+  },
+  {
+   "slug": "dotnet",
+   "count": 19
+  },
+  {
+   "slug": "ux-research",
+   "count": 19
+  },
+  {
+   "slug": "hubspot",
+   "count": 18
+  },
+  {
+   "slug": "motion-design",
+   "count": 18
+  },
+  {
+   "slug": "php",
+   "count": 16
+  },
+  {
+   "slug": "qa-automation",
+   "count": 13
+  },
+  {
+   "slug": "shopify",
+   "count": 13
+  },
+  {
+   "slug": "zendesk",
+   "count": 13
+  },
+  {
+   "slug": "wordpress",
+   "count": 11
+  },
+  {
+   "slug": "content-marketing",
+   "count": 10
+  },
+  {
+   "slug": "meta-ads",
+   "count": 10
+  },
+  {
+   "slug": "google-ads",
+   "count": 8
+  },
+  {
+   "slug": "quickbooks",
+   "count": 8
+  },
+  {
+   "slug": "tableau",
+   "count": 8
+  },
+  {
+   "slug": "email-marketing",
+   "count": 6
+  },
+  {
+   "slug": "power-bi",
+   "count": 6
+  },
+  {
+   "slug": "klaviyo",
+   "count": 1
+  }
+ ],
+ "categories": [
+  {
+   "slug": "it",
+   "count": 448
+  },
+  {
+   "slug": "other",
+   "count": 219
+  },
+  {
+   "slug": "marketing",
+   "count": 104
+  },
+  {
+   "slug": "sales",
+   "count": 77
+  },
+  {
+   "slug": "design",
+   "count": 55
+  },
+  {
+   "slug": "finance",
+   "count": 51
+  },
+  {
+   "slug": "management",
+   "count": 50
+  },
+  {
+   "slug": "writing",
+   "count": 28
+  },
+  {
+   "slug": "data",
+   "count": 25
+  },
+  {
+   "slug": "support",
+   "count": 15
+  },
+  {
+   "slug": "education",
+   "count": 13
+  },
+  {
+   "slug": "hr",
+   "count": 12
+  }
+ ],
+ "sources": [
+  {
+   "slug": "himalayas",
+   "count": 502
+  },
+  {
+   "slug": "jobicy",
+   "count": 327
+  },
+  {
+   "slug": "wwr",
+   "count": 228
+  },
+  {
+   "slug": "workingnomads",
+   "count": 27
+  },
+  {
+   "slug": "remotive",
+   "count": 13
+  }
+ ],
+ "bands": [
+  {
+   "category": "it",
+   "sample": 96,
+   "total": 448,
+   "min": 2500,
+   "median": 132000,
+   "max": 600000
+  },
+  {
+   "category": "design",
+   "sample": 14,
+   "total": 55,
+   "min": 24640,
+   "median": 123200,
+   "max": 212600
+  },
+  {
+   "category": "other",
+   "sample": 47,
+   "total": 219,
+   "min": 3060,
+   "median": 120000,
+   "max": 475200
+  },
+  {
+   "category": "marketing",
+   "sample": 13,
+   "total": 104,
+   "min": 12000,
+   "median": 96800,
+   "max": 202500
+  },
+  {
+   "category": "sales",
+   "sample": 14,
+   "total": 77,
+   "min": 8400,
+   "median": 91000,
+   "max": 169000
+  },
+  {
+   "category": "management",
+   "sample": 8,
+   "total": 50,
+   "min": 52800,
+   "median": 90000,
+   "max": 178500
+  },
+  {
+   "category": "writing",
+   "sample": 9,
+   "total": 28,
+   "min": 6000,
+   "median": 83600,
+   "max": 147500
+  },
+  {
+   "category": "finance",
+   "sample": 22,
+   "total": 51,
+   "min": 10560,
+   "median": 83600,
+   "max": 600000
+  }
+ ],
+ "history": [
+  {
+   "day": "2026-08-04",
+   "at": 1785844800000,
+   "live": 104,
+   "worldwide": 51,
+   "europe": 53,
+   "withPay": 3,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-05",
+   "at": 1785931200000,
+   "live": 190,
+   "worldwide": 131,
+   "europe": 59,
+   "withPay": 14,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-06",
+   "at": 1786017600000,
+   "live": 244,
+   "worldwide": 155,
+   "europe": 89,
+   "withPay": 17,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-07",
+   "at": 1786104000000,
+   "live": 292,
+   "worldwide": 194,
+   "europe": 98,
+   "withPay": 22,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-08",
+   "at": 1786190400000,
+   "live": 324,
+   "worldwide": 216,
+   "europe": 108,
+   "withPay": 23,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-09",
+   "at": 1786276800000,
+   "live": 349,
+   "worldwide": 235,
+   "europe": 114,
+   "withPay": 29,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-10",
+   "at": 1786363200000,
+   "live": 378,
+   "worldwide": 254,
+   "europe": 124,
+   "withPay": 30,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-11",
+   "at": 1786449600000,
+   "live": 399,
+   "worldwide": 271,
+   "europe": 128,
+   "withPay": 31,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-12",
+   "at": 1786536000000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-13",
+   "at": 1786622400000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-14",
+   "at": 1786708800000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-15",
+   "at": 1786795200000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-16",
+   "at": 1786881600000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-17",
+   "at": 1786968000000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-18",
+   "at": 1787054400000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-19",
+   "at": 1787140800000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-20",
+   "at": 1787227200000,
+   "live": 672,
+   "worldwide": 469,
+   "europe": 203,
+   "withPay": 45,
+   "reconstructed": true
+  },
+  {
+   "day": "2026-08-21",
+   "at": 1787314027854,
+   "live": 945,
+   "worldwide": 655,
+   "europe": 290,
+   "withPay": 70
+  },
+  {
+   "day": "2026-08-22",
+   "at": 1787434178706,
+   "live": 1027,
+   "worldwide": 731,
+   "europe": 296,
+   "withPay": 71
+  },
+  {
+   "day": "2026-08-23",
+   "at": 1787520195462,
+   "live": 1046,
+   "worldwide": 749,
+   "europe": 297,
+   "withPay": 75
+  },
+  {
+   "day": "2026-08-24",
+   "at": 1787578226417,
+   "live": 1058,
+   "worldwide": 760,
+   "europe": 298,
+   "withPay": 75
+  },
+  {
+   "day": "2026-08-25",
+   "at": 1787693112228,
+   "live": 1062,
+   "worldwide": 747,
+   "europe": 315,
+   "withPay": 76
+  },
+  {
+   "day": "2026-08-26",
+   "at": 1787779551854,
+   "live": 1074,
+   "worldwide": 758,
+   "europe": 316,
+   "withPay": 76
+  },
+  {
+   "day": "2026-08-27",
+   "at": 1787854604172,
+   "live": 1097,
+   "worldwide": 774,
+   "europe": 323,
+   "withPay": 75
+  }
+ ]
+}
