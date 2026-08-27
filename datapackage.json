@@ -1,0 +1,45 @@
+{
+ "name": "georgia-remote-work",
+ "title": "Remote vacancies open to Georgia",
+ "description": "Aggregate statistics on remote job adverts that accept applicants from Georgia: eligibility split, published pay by category, skill demand, board size over time, and pay against each country's average wage. Rebuilt daily from live listings.",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "homepage": "https://donator.ge/jobs/dataset",
+ "version": "2026-08-27",
+ "keywords": [
+  "remote work",
+  "jobs",
+  "labour market",
+  "Georgia",
+  "salaries",
+  "wages",
+  "hiring"
+ ],
+ "sources": [
+  {
+   "title": "Donator remote vacancy board",
+   "path": "https://donator.ge/jobs/dataset"
+  }
+ ],
+ "resources": [
+  {
+   "name": "summary",
+   "path": "data.json",
+   "format": "json",
+   "mediatype": "application/json",
+   "description": "Every figure the dataset page shows, each carrying the sample it was computed over."
+  },
+  {
+   "name": "countries",
+   "path": "countries.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "Per-country rows: vacancies open to that country, median published pay, and that pay against the national average wage."
+  }
+ ]
+}
