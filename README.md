@@ -3,7 +3,7 @@
 Aggregate statistics on remote job adverts that accept applicants from Georgia,
 rebuilt daily from live listings.
 
-Updated 2026-09-01. Licence CC-BY-4.0. Source: https://donator.ge/jobs/dataset
+Updated 2026-09-02. Licence CC-BY-4.0. Source: https://donator.ge/jobs/dataset
 
 ## What is in it
 
@@ -26,4 +26,4 @@ year on each row.
 
 ## Citation
 
-> Remote vacancies open to Georgia. Donator, 2026-09-01. https://donator.ge/jobs/dataset. Licensed CC BY 4.0.
+> Remote vacancies open to Georgia. Donator, 2026-09-02. https://donator.ge/jobs/dataset. Licensed CC BY 4.0.
